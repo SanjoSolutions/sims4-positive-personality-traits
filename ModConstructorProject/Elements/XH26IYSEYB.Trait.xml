@@ -25,7 +25,63 @@
     </BuffComponent>
     <BuffComponent xsi:type="BuffModifiersComponent">
       <BuffDecayMultipliers />
-      <EmotionWeightMultipliers />
+      <EmotionWeightMultipliers>
+        <BuffReferenceModifier>
+          <Reference GameReference="14632" GameReferenceLabel="Mood_Angry" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14633" GameReferenceLabel="Mood_Bored" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14635" GameReferenceLabel="Mood_Embarrassed" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14638" GameReferenceLabel="Mood_Flirty" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14642" GameReferenceLabel="Mood_Playful" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14643" GameReferenceLabel="Mood_Sad" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14644" GameReferenceLabel="Mood_Dazed" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14645" GameReferenceLabel="Mood_Stressed" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="14646" GameReferenceLabel="Mood_Uncomfortable" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="251719" GameReferenceLabel="Mood_Scared" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+        <BuffReferenceModifier>
+          <Reference GameReference="201531" GameReferenceLabel="Mood_Possessed" />
+          <IntValue>0</IntValue>
+          <Value>0.5</Value>
+        </BuffReferenceModifier>
+      </EmotionWeightMultipliers>
       <ContinuousStatisticModifiers />
       <EffectiveSkillModifiers />
       <EffectiveSkillTagModifiers />
