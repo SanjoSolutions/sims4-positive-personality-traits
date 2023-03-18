@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<Trait xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Guid="75GLIIN645" IsContextSpecific="false" SaveVersion="1" ShowPreset="true" TagText="" UserFacingId="Decent">
+  <ContextModifiers />
+  <GeneratedLabel>Decent</GeneratedLabel>
+  <InstanceKeyOverride xsi:nil="true" />
+  <IsTemporary>false</IsTemporary>
+  <BuffComponents>
+    <BuffComponent xsi:type="BuffBroadcastersComponent">
+      <Broadcasters>
+        <Items />
+      </Broadcasters>
+    </BuffComponent>
+    <BuffComponent xsi:type="BuffCommoditiesComponent">
+      <Commodities />
+    </BuffComponent>
+    <BuffComponent xsi:type="BuffLootComponent">
+      <LootActionSets>
+        <Items />
+      </LootActionSets>
+    </BuffComponent>
+    <BuffComponent xsi:type="BuffMixerInteractionsComponent">
+      <MixerInteractions>
+        <Items />
+      </MixerInteractions>
+    </BuffComponent>
+    <BuffComponent xsi:type="BuffModifiersComponent">
+      <BuffDecayMultipliers />
+      <EmotionWeightMultipliers />
+      <ContinuousStatisticModifiers />
+      <EffectiveSkillModifiers />
+      <EffectiveSkillTagModifiers />
+      <NeedDecayMultipliers />
+      <NeedIncreaseMultipliers />
+      <RelationshipTrackIncreaseMultipliers />
+      <RelationshipTrackDecreaseMultipliers />
+      <SkillMultipliers />
+      <SkillTagMultipliers />
+      <SimologyDecreaseMultipliers />
+      <SimologyIncreaseMultipliers />
+      <StatisticDecreaseMultipliers />
+      <StatisticIncreaseMultipliers />
+    </BuffComponent>
+  </BuffComponents>
+  <CustomTuning />
+  <TraitComponents>
+    <TraitComponent xsi:type="TraitBuffReplacementsComponent">
+      <Replacements />
+    </TraitComponent>
+    <TraitComponent xsi:type="TraitProximityBuffs">
+      <ProximityBuffs>
+        <Items />
+      </ProximityBuffs>
+    </TraitComponent>
+    <TraitComponent xsi:type="TraitSetupComponent">
+      <LootActionSets>
+        <Items />
+      </LootActionSets>
+    </TraitComponent>
+    <TraitComponent xsi:type="TraitSocialInteractionsComponent">
+      <SocialInteractions>
+        <Items />
+      </SocialInteractions>
+    </TraitComponent>
+    <TraitComponent xsi:type="TraitSpecialCasesComponent">
+      <BlockAgingFromAdult>false</BlockAgingFromAdult>
+      <BlockAgingFromBaby>false</BlockAgingFromBaby>
+      <BlockAgingFromChild>false</BlockAgingFromChild>
+      <BlockAgingFromElder>false</BlockAgingFromElder>
+      <BlockAgingFromTeen>false</BlockAgingFromTeen>
+      <BlockAgingFromToddler>false</BlockAgingFromToddler>
+      <BlockAgingFromYoungAdult>false</BlockAgingFromYoungAdult>
+      <HideRelationships>false</HideRelationships>
+      <ImmuneToDeath>false</ImmuneToDeath>
+      <IsNonPersisted>false</IsNonPersisted>
+      <IsNPCOnly>false</IsNPCOnly>
+      <TraitBuffs>
+        <Items />
+      </TraitBuffs>
+      <TraitOrigin CustomText="" Guid="75GLIIN645" />
+      <IsGlobalTrait>false</IsGlobalTrait>
+    </TraitComponent>
+    <TraitComponent xsi:type="TraitWhimsComponent">
+      <WhimSet />
+    </TraitComponent>
+    <TraitComponent xsi:type="TraitInfoComponent">
+      <AllowAdult>true</AllowAdult>
+      <AllowBaby>true</AllowBaby>
+      <AllowChild>true</AllowChild>
+      <AllowElder>true</AllowElder>
+      <AllowTeen>true</AllowTeen>
+      <AllowToddler>true</AllowToddler>
+      <AllowYoungAdult>true</AllowYoungAdult>
+      <Description CustomText="" Guid="L0A4D2DBSC" />
+      <Icon Path="Icons/BG Misc/missing_image 30f0846c783606f9.png" Text="2f7d0004:00000000:30f0846c783606f9 &lt;&lt;&lt;Default Image" />
+      <Name CustomText="Decent" Guid="KUNZQIT731" />
+      <TraitCategory>Lifestyle</TraitCategory>
+      <TraitType>Personality</TraitType>
+    </TraitComponent>
+  </TraitComponents>
+</Trait>
