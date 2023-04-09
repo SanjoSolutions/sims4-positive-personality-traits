@@ -1,3 +1,5 @@
+# Positive Personality Traits
+
 This package adds positive personality traits that can be added to sims.
 
 **Currently most personality traits in this package are stubs.**
