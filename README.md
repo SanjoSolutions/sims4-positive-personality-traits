@@ -68,3 +68,6 @@ This package adds positive personality traits that can be added to sims.
 * Wisdom
 
 You can support me on [Patreon](https://www.patreon.com/ModsforSims4726).
+
+To add more trait slots to the "Create a Sim" UI, you can install the addon [More Traits in CAS](https://www.patreon.com/posts/more-traits-in-62838078).
+
